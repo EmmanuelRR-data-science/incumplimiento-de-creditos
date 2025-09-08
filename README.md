@@ -23,9 +23,6 @@ Se construyeron y evaluaron varios modelos predictivos, considerando escenarios 
 
 ---
 
-
----
-
 ## Variables del Dataset
 - `IncumplimientoPago` (0 = Pagó, 1 = No Pagó) → Variable objetivo  
 - `UsoCreditoDisponible`  
@@ -54,6 +51,12 @@ Se construyeron y evaluaron varios modelos predictivos, considerando escenarios 
   2. Clasificar clientes en riesgo: bajo, medio, alto.  
   3. Visualizar resultados en dashboard para personal no técnico.  
   4. Reentrenar modelos periódicamente para mantener desempeño.
+
+---
+
+## Imagen Representativa
+
+![Flujo de Proceso de Créditos](comparacion_modelos.png)
 
 ---
 
